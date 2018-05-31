@@ -30,6 +30,8 @@ Wondering how to add images and videos to your post? Google has answers for you 
 
 ## Presentation
 
-[Speaking.io](https://speaking.io/) is a superb resource on creating good presentations. You can find the author's (Zach Holman's) "Talk on Talks" [here](https://www.youtube.com/watch?v=YVb2GsJHejo). Read over that sight and watch Zach's talk to get an idea how to immediately make your presentation better than the majority of talks out there. Your presentation will be what is typically called a "Lightning Talk". Meaning, it will not be a full length technical presentation. It should just aim to be an informative blurb (5 minutes in length).
+[Speaking.io](https://speaking.io/) is a superb resource on creating good presentations. You can find the author's (Zach Holman's) *Talk on Talks* right [here](https://www.youtube.com/watch?v=YVb2GsJHejo). Read over this website and watch Zach's talk to get an idea how to immediately make your first mini-presentation fantastic.
 
-Although short, your presentation should employ at least 3 slides of info, with no maximum. At Power, we have Macs and thus use Keynote to create these slides.
+Your presentation will be what is called a "Lightning Talk". Meaning, it will not be a full length technical presentation as described in the video above. It should just aim to be an informative blurb about 5 minutes in length.
+
+Although short, your presentation should employ at least 3 slides of info. At Power, we use Mac computers and thus use the Keynote application to create slide decks.
